@@ -1,0 +1,30 @@
+# Unity Generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# VSCode
+.vscode/
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.unityproj
+
+# Auto-gerado
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Crashlytics
+crashlytics-build.properties
+
+# Gradle
+.gradle/
